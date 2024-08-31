@@ -201,8 +201,8 @@
    limitations under the License.
 
 
-The contents of rdf/iri/iri_resolve.go, textpos/, and codegen/ uses code from
-the Go language project, which has this license:
+The contents of iri_resolve.go containts code from the Go language
+project, which has this license:
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
